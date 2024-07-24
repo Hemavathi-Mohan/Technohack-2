@@ -1,0 +1,23 @@
+simple commands for kali Linux 
+#date
+#Cal
+#Cp
+#cv
+#mv
+#mkdir
+#whoami
+#users
+#uname
+#uptime
+#rm
+#history
+#man ls
+#ls
+#man
+#sudo apt install update
+#sudo apt install upgrade 
+#sudo apt remove package_name
+#sudo apt install package_name
+#sudo su
+#sudo apt install ....
+#echo "Type something"
